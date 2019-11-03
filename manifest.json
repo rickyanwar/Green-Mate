@@ -1,0 +1,15 @@
+{
+    "short_name": "Darul Abror",
+    "name": "Darul Abror NW Gunung Rajak",
+    "icons": [
+      {
+        "src":"abror192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#0d8279",
+    "Theme_color": "#0d8279",
+    "display": "standalone"
+  }
