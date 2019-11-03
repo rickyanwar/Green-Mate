@@ -1,3 +1,2 @@
 # Green-Mate
-# Green-Mate
-# Green-Mate
+Theme Wordpress
